@@ -1,7 +1,8 @@
 # 👋 Pranjal Agrawal
 **Backend & Infrastructure Engineer** *Building distributed systems that survive production traffic.*
 
-I specialize in **High-Performance Backend Systems**, **OS-level Virtualization**, and **Asynchronous Architectures**.  
+I specialise in high-performance backend systems, OS-level virtualisation, and async architectures (mostly because I like understanding what breaks under real load).
+
 Currently, I engineer microservices handling **1M+ daily requests** at **CreditSea**.
 
 ---
@@ -9,7 +10,7 @@ Currently, I engineer microservices handling **1M+ daily requests** at **CreditS
 ## 🛠️ Engineering Philosophy
 I don't just write code; I design systems for **observability**, **fault tolerance**, and **scale**.
 - **Infrastructure as Code:** If it's not automated, it doesn't exist.
-- **Latency Matters:** I optimize P99s using efficient caching (Redis) and async processing (BullMQ).
+- **Latency Matters:** I optimise P99S using efficient caching (Redis) and async processing (BullMQ).
 - **Security First:** Experience with **Linux namespaces & cgroups** for secure code execution.
 
 ---
