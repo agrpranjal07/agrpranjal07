@@ -17,6 +17,7 @@ I don't just write code; I design systems for **observability**, **fault toleran
 - **Security First:** Leveraging Linux namespaces & cgroups for secure execution.
 
 ---
+
 ### 💻 Technical Arsenal
 
 **Languages**
@@ -33,8 +34,8 @@ I don't just write code; I design systems for **observability**, **fault toleran
 ### 📊 GitHub Statistics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=agrpranjal07&show_icons=true&theme=tokyonight&count_private=true" height="185px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrpranjal07&layout=compact&theme=tokyonight" height="185px" />
+  <img src="https://github-readme-stats-seven-rho-79.vercel.app/api?username=agrpranjal07&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="185px" />
+  <img src="https://github-readme-stats-seven-rho-79.vercel.app/api/top-langs/?username=agrpranjal07&layout=compact&theme=tokyonight" height="185px" />
 </div>
 
 <div align="center">
