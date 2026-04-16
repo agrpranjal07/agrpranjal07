@@ -1,58 +1,61 @@
-# 👋 Pranjal Agrawal
-**Backend & Infrastructure Engineer** *Building distributed systems that survive production traffic.*
+<div align="center">
+  <img src="https://raw.githubusercontent.com/m0stafa-86/m0stafa-86/main/assets/code.gif" width="100%" />
+  
+  # ⚡ Pranjal Agrawal
+  **Backend & Infrastructure Engineer** *Building distributed systems that survive production traffic.*
 
-I specialise in high-performance backend systems, OS-level virtualisation, and async architectures (mostly because I like understanding what breaks under real load).
-
-Currently, I engineer microservices handling **1M+ daily requests** at **CreditSea**.
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agrawal-pranjal/) 
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myselfpranjal2005@gmail.com)
+</div>
 
 ---
 
-## 🛠️ Engineering Philosophy
+### 🚀 Engineering Philosophy
 I don't just write code; I design systems for **observability**, **fault tolerance**, and **scale**.
 - **Infrastructure as Code:** If it's not automated, it doesn't exist.
-- **Latency Matters:** I optimise P99S using efficient caching (Redis) and async processing (BullMQ).
-- **Security First:** Experience with **Linux namespaces & cgroups** for secure code execution.
+- **Latency Matters:** Optimizing P99S using Redis and async BullMQ.
+- **Security First:** Leveraging Linux namespaces & cgroups for secure execution.
+
+---
+### 💻 Technical Arsenal
+
+**Languages**
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Backend & Infrastructure**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+**Databases & Caching**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-## 🚀 Featured Systems
-
-### 1. [JudgeAndSolve (Distributed Code Sandbox)](https://github.com/agrpranjal07/JudgeAndSolve)
-> *A secure remote code execution engine capable of running untrusted C++/Python code safely.*
-- **The Challenge:** Preventing "Fork Bombs" and OOM attacks from malicious user code.
-- **The Solution:** Architected a custom sandbox using **Docker** and **Linux cgroups** to strictly limit CPU/Memory usage. Decoupled execution using **Redis** queues for burst handling.
-- **Tech:** Node.js, Docker, BullMQ, Redis, AWS EC2.
-
-### 2. [Real-Time Anomaly Detection](https://github.com/agrpranjal07/crowd-detection)
-> *Computer Vision pipeline for crowd safety analysis.*
-- **The Challenge:** Processing live video feeds with sub-second latency.
-- **The Solution:** Built a 3-tier architecture using **WebSockets** for full-duplex streaming and optimized **OpenCV** scripts for efficient frame processing.
-- **Tech:** Python, OpenCV, WebSockets, React.
-
----
-
-## 💻 Technical Arsenal
-
-| Domain | Stack Strategy |
-| :--- | :--- |
-| **Languages** | **C++** (Low-level systems), **JavaScript/TypeScript** (API), **Python** (Data/AI) |
-| **Infrastructure** | **Docker** (Containerization), **AWS** (EC2, ECR), **Nginx** (Reverse Proxy) |
-| **Data & Storage** | **PostgreSQL** (Relational), **Redis** (Caching/Queues), **MongoDB** (Logs) |
-| **Backend Core** | **Node.js** (Event Loop), **Express**, **Microservices**, **WebSockets** |
-| **Tools** | **Linux** (Bash/Shell), **Git**, **Postman** |
-
----
-
-## 📊 Engineering Activity
-![Metrics](./github-metrics.svg)
-
----
+### 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/agrawal-pranjal/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:myselfpranjal2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=agrpranjal07&show_icons=true&theme=tokyonight&count_private=true" height="185px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrpranjal07&layout=compact&theme=tokyonight" height="185px" />
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=agrpranjal07&theme=tokyonight" alt="GitHub Streak" width="100%" height="185px" />
+</div>
+
+---
+
+### 🛠️ Featured Systems
+
+#### 🛡️ [JudgeAndSolve](https://github.com/agrpranjal07/JudgeAndSolve) (Distributed Code Sandbox)
+> Secure RCE engine for running untrusted C++/Python code. 
+- **The Solution:** Custom sandbox using **Docker** and **Linux cgroups** to mitigate Fork Bombs/OOM.
+- **Scale:** Decoupled execution via **Redis** for high-concurrency burst handling.
+
+#### 👁️ [Real-Time Anomaly Detection](https://github.com/agrpranjal07/crowd-detection)
+> Computer Vision pipeline for crowd safety analysis.
+- **Performance:** Sub-second latency using **WebSockets** and optimized OpenCV frame processing.
+
+---
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=agrpranjal07&color=blueviolet" alt="Views" />
+</p>
